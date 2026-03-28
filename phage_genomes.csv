@@ -1,0 +1,82 @@
+accession,host,genome_length,gc_content,description
+PI235611.1,Escherichia coli,170632,39.62,JP 2024508813-A/1: Novel bacteriophage having a specific bactericidal activity against enterotoxigenic Escherichia coli and antibacterial composition comprising the same
+PI221363.1,Escherichia coli,161976,35.49,JP 2024515351-A/1: BACTERIOPHAGE THERAPY AGAINST ADHERENT-INVASIVE ESCHERICHIA COLI
+PL066818.1,Escherichia coli,161976,35.49,KR 1020230173188-A/1: BACTERIOPHAGE THERAPY AGAINST ADHERENT-INVASIVE ESCHERICHIA COLI
+PE249906.1,Escherichia coli,90298,38.94,KR 1020230022739-A/1: Bacteriophage having killing activity specific to Escherichia coli or Shigella
+PE019389.1,Escherichia coli,167440,35.55,"KR 1020220164159-A/1: Pathogenic Escherichia coli, Salmonella, and Shigella-specific bacteriophage and antibacterial composition comprising the same"
+PE011608.1,Escherichia coli,170632,39.62,KR 1020220120307-A/1: Novel bacteriophage having a specific bactericidal activity against enterotoxigenic Escherichia coli and antibacterial composition comprising the same
+AM156909.1,Escherichia coli,46219,44.28,"Bacteriophage RTP, complete genome"
+NC_005178.1,Escherichia coli,37611,64.34,"Bacteriophage D3112, complete genome"
+NC_020873.1,Escherichia coli,158621,39.98,"Bacillus cereus bacteriophage vB_BceM_Bc431v3, complete genome"
+NC_011041.1,Escherichia coli,137947,43.56,"Escherichia coli bacteriophage rv5, complete sequence"
+NC_001901.1,Escherichia coli,46375,51.17,"Bacteriophage N15, complete genome"
+AF063097.1,Escherichia coli,33593,50.17,"Bacteriophage P2, complete genome"
+BK039915.1,Escherichia coli,35350,46.4,"MAG TPA_asm: Bacteriophage sp. isolate ctghd1, partial genome"
+BK027402.1,Escherichia coli,33210,54.1,"MAG TPA_asm: Bacteriophage sp. isolate ctAts2, partial genome"
+BK026942.1,Escherichia coli,10886,50.19,"MAG TPA_asm: Bacteriophage sp. isolate ctQpp4, partial genome"
+BK026766.1,Escherichia coli,189537,34.69,"MAG TPA_asm: Bacteriophage sp. isolate ct72E6, partial genome"
+BK026436.1,Escherichia coli,71200,39.77,"MAG TPA_asm: Bacteriophage sp. isolate ctJul7, partial genome"
+BK037088.1,Escherichia coli,25568,45.29,"MAG TPA_asm: Bacteriophage sp. isolate ctP1j4, partial genome"
+BK050701.1,Escherichia coli,109653,30.68,"MAG TPA_asm: Bacteriophage sp. isolate ctfsV4, partial genome"
+BK048580.1,Escherichia coli,20500,49.79,"MAG TPA_asm: Bacteriophage sp. isolate ctpWu3, partial genome"
+BK053809.1,Escherichia coli,16095,48.47,"MAG TPA_asm: Bacteriophage sp. isolate ctl3M10, partial genome"
+BK045485.1,Escherichia coli,31863,52.31,"MAG TPA_asm: Bacteriophage sp. isolate ctphs30, partial genome"
+BK045424.1,Escherichia coli,11221,48.72,"MAG TPA_asm: Bacteriophage sp. isolate ct9bI1, partial genome"
+NC_020873.1,Staphylococcus aureus,158621,39.98,"Bacillus cereus bacteriophage vB_BceM_Bc431v3, complete genome"
+OF299919.1,Staphylococcus aureus,263228,25.14,KR 1020210143685-A/1: Endolysins LysPALS22 of Jumbo bacteriophage PALS2 from Staphylococcus aureus
+AB983236.1,Staphylococcus aureus,43680,33.05,"Staphylococcus aureus genes for hypothetical bacteriophage protein, complement inhibitor, phage lysin, staphylokinase, N-acetylmuramoyl-L-alanine amidase, holin, hypothetical membrane protein, bacteriophage tail length tape measure protein, and the downstream region, complete cds, strain: OC3"
+DI373478.1,Staphylococcus aureus,136326,30.04,KR 1020130142820-A/1: Bacteriophage of Staphylococcus aureus and uses thereof
+DI207126.1,Staphylococcus aureus,34553,64.77,KR 1020120067096-A/1: A bacteriophage killing Pseudomonas aeruginosa and Staphylococcus aureus
+DI171504.1,Staphylococcus aureus,17938,28.94,KR 1020090027783-A/29: Bacteriophage or Lytic Protein Derived From the Bacteriophage Which Effective For Treatment of Staphylococcus aureus Biofilm
+PC238228.1,Klebsiella,5036250,54.95,JP 2020533408-A/286: BACTERIOPHAGE FOR MODULATING INFLAMMATORY BOWEL DISEASE
+PC238227.1,Klebsiella,110226,49.16,JP 2020533408-A/285: BACTERIOPHAGE FOR MODULATING INFLAMMATORY BOWEL DISEASE
+PC238226.1,Klebsiella,163335,51.88,JP 2020533408-A/284: BACTERIOPHAGE FOR MODULATING INFLAMMATORY BOWEL DISEASE
+PC238225.1,Klebsiella,5272966,57.56,JP 2020533408-A/283: BACTERIOPHAGE FOR MODULATING INFLAMMATORY BOWEL DISEASE
+PB396198.1,Klebsiella,165317,39.56,JP 2020500935-A/3: BACTERIOPHAGE COMPOSITIONS COMPRISING RESPIRATORY ANTIBACTERIAL PHAGES AND METHODS OF USE THEREOF
+PB396197.1,Klebsiella,111775,45.53,JP 2020500935-A/2: BACTERIOPHAGE COMPOSITIONS COMPRISING RESPIRATORY ANTIBACTERIAL PHAGES AND METHODS OF USE THEREOF
+PB396196.1,Klebsiella,113073,45.47,JP 2020500935-A/1: BACTERIOPHAGE COMPOSITIONS COMPRISING RESPIRATORY ANTIBACTERIAL PHAGES AND METHODS OF USE THEREOF
+LY645554.1,Klebsiella,58387,58.88,KR 1020190000944-A/1: LYTIC BACTERIOPHAGE SPECIFIC FOR KLEBSIELLA GENUS RESISTANT TO ANTIBIOTICS
+LY574604.1,Klebsiella,59087,56.3,KR 1020180137815-A/1: LYTIC BACTERIOPHAGE SPECIFIC FOR KLEBSIELLA GENUS RESISTANT TO ANTIBIOTICS
+LY574601.1,Klebsiella,59100,56.3,KR 1020180137814-A/1: LYTIC BACTERIOPHAGE SPECIFIC FOR KLEBSIELLA GENUS RESISTANT TO ANTIBIOTICS
+LY574598.1,Klebsiella,59100,56.3,KR 1020180137813-A/1: LYTIC BACTERIOPHAGE SPECIFIC FOR KLEBSIELLA GENUS RESISTANT TO ANTIBIOTICS
+PB396201.1,Pseudomonas aeruginosa,43020,53.64,JP 2020500935-A/6: BACTERIOPHAGE COMPOSITIONS COMPRISING RESPIRATORY ANTIBACTERIAL PHAGES AND METHODS OF USE THEREOF
+PB396200.1,Pseudomonas aeruginosa,92755,49.34,JP 2020500935-A/5: BACTERIOPHAGE COMPOSITIONS COMPRISING RESPIRATORY ANTIBACTERIAL PHAGES AND METHODS OF USE THEREOF
+PB396199.1,Pseudomonas aeruginosa,65855,54.97,JP 2020500935-A/4: BACTERIOPHAGE COMPOSITIONS COMPRISING RESPIRATORY ANTIBACTERIAL PHAGES AND METHODS OF USE THEREOF
+NC_002484.2,Pseudomonas aeruginosa,56426,57.8,"Bacteriophage D3, complete genome"
+NC_005178.1,Pseudomonas aeruginosa,37611,64.34,"Bacteriophage D3112, complete genome"
+NC_011041.1,Pseudomonas aeruginosa,137947,43.56,"Escherichia coli bacteriophage rv5, complete sequence"
+OF134632.1,Pseudomonas aeruginosa,59426,56.47,KR 1020210035537-A/1: Bacteriophage of Pseudomonas aeruginosa and uses thereof
+BK028028.1,Pseudomonas aeruginosa,95132,32.8,"MAG TPA_asm: Bacteriophage sp. isolate ctLIj11, partial genome"
+BK027911.1,Pseudomonas aeruginosa,49060,41.74,"MAG TPA_asm: Bacteriophage sp. isolate ctYWd8, partial genome"
+BK027556.1,Pseudomonas aeruginosa,157537,29.11,"MAG TPA_asm: Bacteriophage sp. isolate ctM7242, partial genome"
+BK027169.1,Pseudomonas aeruginosa,71620,46.51,"MAG TPA_asm: Bacteriophage sp. isolate ctOFH10, partial genome"
+BK025727.1,Pseudomonas aeruginosa,59085,48.72,"MAG TPA_asm: Bacteriophage sp. isolate ctUBC7, partial genome"
+BK025209.1,Pseudomonas aeruginosa,33835,56.85,"MAG TPA_asm: Bacteriophage sp. isolate ctCD64, partial genome"
+BK025183.1,Pseudomonas aeruginosa,32700,50.17,"MAG TPA_asm: Bacteriophage sp. isolate ctzZV2, partial genome"
+BK024790.1,Pseudomonas aeruginosa,55892,42.04,"MAG TPA_asm: Bacteriophage sp. isolate ctUzc3, partial genome"
+BK029450.1,Pseudomonas aeruginosa,32674,42.59,"MAG TPA_asm: Bacteriophage sp. isolate ctBjF6, partial genome"
+BK028815.1,Pseudomonas aeruginosa,49056,63.98,"MAG TPA_asm: Bacteriophage sp. isolate ct97t1, partial genome"
+BK028285.1,Pseudomonas aeruginosa,79407,51.47,"MAG TPA_asm: Bacteriophage sp. isolate ctjo616, partial genome"
+BK051500.1,Pseudomonas aeruginosa,88700,25.89,"MAG TPA_asm: Bacteriophage sp. isolate ct8aC7, partial genome"
+BK057988.1,Pseudomonas aeruginosa,43795,40.78,"MAG TPA_asm: Bacteriophage sp. isolate ct2k67, partial genome"
+BK057522.1,Pseudomonas aeruginosa,183909,31.1,"MAG TPA_asm: Bacteriophage sp. isolate ctfzY18, partial genome"
+BK052524.1,Pseudomonas aeruginosa,21822,33.0,"MAG TPA_asm: Bacteriophage sp. isolate ct5Ji35, partial genome"
+BK057824.1,Pseudomonas aeruginosa,19846,42.52,"MAG TPA_asm: Bacteriophage sp. isolate ctm4t8, partial genome"
+BK017149.1,Pseudomonas aeruginosa,117333,32.8,"MAG TPA_asm: Bacteriophage sp. isolate ctCRc2, partial genome"
+BK030894.1,Pseudomonas aeruginosa,39561,50.87,"MAG TPA_asm: Bacteriophage sp. isolate ctklC10, partial genome"
+BK030466.1,Pseudomonas aeruginosa,62746,40.73,"MAG TPA_asm: Bacteriophage sp. isolate ctrA34, partial genome"
+BK018298.1,Pseudomonas aeruginosa,34944,31.11,"MAG TPA_asm: Bacteriophage sp. isolate ctIzF2, partial genome"
+BK017672.1,Pseudomonas aeruginosa,39230,57.53,"MAG TPA_asm: Bacteriophage sp. isolate ctxqs25, partial genome"
+BK055828.1,Pseudomonas aeruginosa,20255,43.03,"MAG TPA_asm: Bacteriophage sp. isolate ctct97, partial genome"
+BK033222.1,Pseudomonas aeruginosa,177566,32.36,"MAG TPA_asm: Bacteriophage sp. isolate ct1yV3, partial genome"
+LY722223.1,Pseudomonas aeruginosa,66485,55.64,KR 1020190132331-A/1: Novel Pseudomonas aeruginosa specific bacteriophage PA4 and antibacterial composition comprising the same
+LY712365.1,Pseudomonas aeruginosa,92732,49.41,KR 1020190079048-A/1: Novel Imipenem Resistant Pseudomonas aeruginosa specific bacteriophage PA14 and antibacterial composition comprising the same
+LY584812.1,Pseudomonas aeruginosa,45213,52.55,KR 1020180103788-A/1: Novel Pseudomonas aeruginosa bacteriophage Pse-AEP-3 and its use for preventing proliferation of Pseudomonas aeruginosa
+LY584804.1,Pseudomonas aeruginosa,43063,62.21,KR 1020180100533-A/1: Novel Pseudomonas aeruginosa bacteriophage Pse-AEP-4 and its use for preventing proliferation of Pseudomonas aeruginosa
+PL081252.1,Salmonella,86400,38.9,KR 1020240003147-A/1: Novel Salmonella enterica specific bacteriophage OPT-SAL01 and antibacterial composition comprising the same
+NC_002484.2,Salmonella,56426,57.8,"Bacteriophage D3, complete genome"
+NC_011802.1,Salmonella,41941,46.99,"Salmonella enterica bacteriophage SE1, complete genome"
+DI373481.1,Salmonella,17346,49.54,KR 1020130142836-A/3: Bacteriophage of Salmonella enterica and uses thereof
+DI373480.1,Salmonella,17731,50.04,KR 1020130142836-A/2: Bacteriophage of Salmonella enterica and uses thereof
+DI373479.1,Salmonella,23610,49.82,KR 1020130142836-A/1: Bacteriophage of Salmonella enterica and uses thereof
+AY374448.1,Salmonella,51601,51.49,"Bacteriophage phiKO2, complete genome"
